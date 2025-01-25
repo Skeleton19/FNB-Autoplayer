@@ -57,7 +57,7 @@ end
 if id == 506813014 or id == 2253330791 or id == 3386612910 or id == 311949314 then
     GetFuckedLmao()
 else
-    loadstring(game:HttpGet"https://raw.githubusercontent.com/stavratum/lua/main/fnb/hooks.lua")() -- robo sucks my dick rn
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/stavratum/lua/refs/heads/main/7603193259/hooks.lua")() -- robo sucks my dick rn
     local oldhmmi
     local oldhmmnc
     oldhmmi = hookmetamethod(game, "__index", function(self, method)
